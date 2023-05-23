@@ -1,8 +1,8 @@
 {
   "name": "javaguide",
   "version": "2.0.0-alpha.40",
-  "private": true,
-  "description": "javaguide",
+  "private": true, 
+  "description": "javaguide", 
   "license": "MIT",
   "author": "Guide",
   "packageManager": "pnpm@8.5.1",
