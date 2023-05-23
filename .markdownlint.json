@@ -2,7 +2,7 @@
   "default": true,
   "MD003": {
     "style": "atx"
-  },
+  }, 
   "MD004": {
     "style": "dash"
   },
